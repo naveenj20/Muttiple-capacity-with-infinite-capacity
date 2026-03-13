@@ -19,6 +19,9 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Experiment:
 
+![ss](vs5_1.png)
+
+![ss](vs5_2.png)
 
 ## Program
 
